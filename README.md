@@ -5,3 +5,6 @@ Welcome to my personal portfolio. I'm a game programmer with experience in:
 - **Roblox Lua / Luau** (gameplay systems, remote events, UI)
 - **Lua (LÖVE2D)** (2D game engines and game loops)
 - **C++** (OpenGL graphics, input handling, shaders)
+
+Feel free to browse through my projects to see examples of my work and skills.
+
